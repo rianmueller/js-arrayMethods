@@ -37,7 +37,7 @@ var yoda = ["try", "no", "is", "there", "not", "do", "or", "do"];
 yoda.reverse();
 console.log(yoda);
 
-/*The array.shift() removes the first element from an array and returns that element*/
+/*The array.shift() removes the first element from an array and returns that array*/
 
 /*4. People been lining up for hours to get the newest iphone release. Help manage the unruly crowd of privileged customers by serving them one at a time and assiging it to a variable named `nowServing`. Console.log this new variable as well as the waitList.*/
 
