@@ -55,7 +55,8 @@ array.splice(index, how many items to be removed)*/
 
 var testMenu = ["McPizza Burger", "McFly Burger", "McLinguine", "McChar-Siu Bau", "McChop-Chae", "McPancit"];
 
-
+testMenu.splice(2, 2);
+console.log(testMenu);
 
 /*=============================================================*/
 
