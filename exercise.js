@@ -68,7 +68,8 @@ console.log(testMenu);
 
 var westSide = ["Dre", "2Pac", "Snoop"];
 var eastSide = ["Biggie", "Diddy", "Craig Mack"];
-
+var oneLove = westSide.concat(eastSide);
+console.log(oneLove);
 
 
 /*The array.join() joins all the elements of an array into a string.*/
